@@ -42,3 +42,9 @@ Strings appearing in multiple lists: ‘gh’
 Number of unique strings: 7
 Total number of strings processed: 9
 ```
+
+# To Do
+* ensure that the code conforms to PEP8 and FLAKE8
+* integrate the tests to a CI server
+* use with a docker python image for execution
+* add more tests and new lists
